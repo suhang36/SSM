@@ -10,7 +10,7 @@
     <packaging>war</packaging>
 
     <properties>
-        <springversion>5.1.2.RELEASE</springversion>
+        <springversion>6.0.0</springversion>
     </properties>
 
     <!--//编译 打包-->
